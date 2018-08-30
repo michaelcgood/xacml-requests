@@ -1,0 +1,14 @@
+{"Request":{"AccessSubject":
+{"Attribute":
+[ {"AttributeId":"user.name","Value":"jonasi"} ]
+},
+"Resource":
+{"Attribute":
+[ {"AttributeId":"resource.objectType","Value":"insurance claim"} ]
+},
+"Action":
+{"Attribute":
+[ {"AttributeId":"action-id","Value":"view"}]
+}
+}
+}
