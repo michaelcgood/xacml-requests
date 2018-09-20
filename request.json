@@ -1,6 +1,6 @@
 {"Request":{"AccessSubject":
 {"Attribute":
-[ {"AttributeId":"user.name","Value":"jonasi"} ]
+[ {"AttributeId":"user.name","Value":"alice"} ]
 },
 "Resource":
 {"Attribute":
